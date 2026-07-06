@@ -2,81 +2,85 @@
    DATOS COMPARTIDOS DEL CALENDARIO (Modificar solo este archivo cada viernes)
    ========================================================================== */
 const CONFIG_SEMANAL = {
-    titulo: "Calendario Junio 2026",
+    titulo: "Calendario Julio 2026",
     cliente: "Lavinia Flores",
-    rangoFechas: "✨ Semana del martes 30 de junio al sábado 04 de julio ✨",
+    rangoFechas: "✨ Semana del martes 07 al sábado 11 de julio ✨",
     usuarioInstagram: "lflores.bienesraices",
     avatarLetras: "LF",
 
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 30 de Junio",
-            copy: `🏠 ¿El momento de invertir? Es HOY.
-🚀 El mercado inmobiliario está encendido: mayor dinamismo, precios estables y nuevas oportunidades apareciendo cada día.
+            diaSemana: "Martes 07 de Julio",
+            copy: `¿Espacio o Calidad de Vida? 🏠
 
-💡 ¿Por qué ahora? La propiedad sigue siendo el activo más seguro para blindar tu capital. Las mejores piezas se cierran cuando otros recién están empezando a mirar.
+Ya no buscamos casas gigantes. Buscamos tiempo.
+La tendencia hoy es clara: mejor distribución, menos mantenimiento y una ubicación que te devuelva horas al día.
 
-La pregunta no es si el mercado se mueve; es si estás listo para aprovecharlo.
+Un metro cuadrado bien diseñado vale más que diez vacíos.
 
-👇 Si buscas resultados distintos, el momento de tomar acción es ahora.
+¿Qué pesa más en tu decisión: el tamaño o la ubicación?
 .
 .
 Lavinia Flores | MVCS PN-7714
 WhatsApp: https://wa.me/51997937414`,
-            imagenes: ["img/30.jpg"] 
-        },
-        {
-            tipo: "video",
-            diaSemana: "Jueves 02 de Julio",
-            copy: `📍 Departamento en Alquiler: Límite San Isidro y Aramburú 🔑
-Vive en calle Las Garzas Sur, en una ubicación privilegiada. Este departamento destaca por su increíble iluminación natural, balcón y vista exterior. 🏢
-
-El espacio perfecto:
-
-2 dormitorios y 2 baños completos. 🛏️
-Excelente distribución y luz natural. ✨
-
-¿Buscas vivir cerca de todo? ⚡
-
-👇 Escríbeme al privado para más detalles y agendar una visita.
-.
-.
-Lavinia Flores | MVCS PN-7714
-WhatsApp: https://wa.me/51997937414`,
-            imagenes: ["img/2.jpg"]
+            imagenes: ["img/7.jpg"] 
         },
         {
             tipo: "imagen",
-            diaSemana: "Viernes 03 de Julio",
-            copy: `⚠️ No caigas en la trampa del crédito hipotecario 💸
-Que el banco te apruebe un monto alto no significa que debas usarlo todo. Muchos cometen el error de sobreendeudarse, comprometiendo su paz mental por un inmueble que no necesitan o que será difícil de revender después. 📉
+            diaSemana: "Jueves 09 de Julio",
+            copy: `¿Estás pensando en solicitar un crédito hipotecario? 🏠
+Estas son las 5 entidades bancarias con menores tasas hipotecarias para vivienda en moneda nacional, según información de la SBS.
+Comparar tasas antes de elegir un banco puede marcar una gran diferencia en tu cuota mensual y en el monto total que terminarás pagando.
+📌 Fuente: SBS
+📅 Fecha de consulta: 01/07/2026
+⚠️ Tasas referenciales sujetas a evaluación crediticia de cada entidad.
+.
+.
+Lavinia Flores | MVCS PN-7714
+WhatsApp: https://wa.me/51997937414`,
+            imagenes: ["img/9.jpg"]
+        },
+        {
+            tipo: "video",
+            diaSemana: "Viernes 10 de Julio",
+            copy: `📍 La ubicación no lo es todo, la conectividad sí.
 
-El crédito es una herramienta, no una extensión de tu sueldo. 💳 Antes de firmar, asegúrate de que la cuota sea cómoda y que tu inversión sea realmente líquida. ¡Cuida tus finanzas antes de comprar! 🛡️
+Antes de comprar, ignora los metros cuadrados y mira afuera:
 
-Fuente: Sociedad Peruana de Bienes Raíces.
+📌 ¿Qué tienes a 5 minutos caminando?
+📌 ¿Qué proyectos vienen a la zona?
+📌 ¿Tu día a día será más fácil o más difícil?
+
+La plusvalía está en la infraestructura que te rodea.
+
+¿Analizas el entorno antes de cerrar el trato o te dejas llevar por la fachada?
 .
 .
 Lavinia Flores | MVCS PN-7714
 WhatsApp: https://wa.me/51997937414`,
             imagenes: [
-                "img/3.jpg"
+                "img/10.jpg"
             ]
         },
         {
             tipo: "video",
-            diaSemana: "Sábado 04 de Julio",
-            copy: `📍 Flat exclusivo en Surco: Solo 14 departamentos 🏢
-Vive con la tranquilidad y conexión que buscas. Este flat de 115.22 m² cuenta con 3 dormitorios, una terraza perfecta para tus reuniones y estacionamiento incluido. ✨
+            diaSemana: "Sábado 11 de Julio",
+            copy: `¡Disponible en el corazón de San Isidro/Aramburú! 🏢
 
-Tu nuevo hogar te espera en la mejor zona residencial. 🔑
+Este departamento tiene todo lo que buscas:
+✅ 2 dormitorios + 2 baños.
+✅ Balcón con vista exterior.
+✅ Iluminación natural impecable.
 
-💬 ¿Quieres conocer el precio o agendar una visita? Envíame un mensaje directo.
+Ubicación inmejorable en calle Las Garzas Sur.
+
+¿Te interesa? Mándame un mensaje y coordinamos. 💬
 .
 .
 Lavinia Flores | MVCS PN-7714
 WhatsApp: https://wa.me/51997937414`,
-            imagenes: ["img/4.jpg"]
+            imagenes: ["img/11.jpg"]
         }
     ]
 };
