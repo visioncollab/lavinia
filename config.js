@@ -47,9 +47,6 @@ document.addEventListener("DOMContentLoaded", () => {
                         `).join("")}
                     </div>
                     ${images.length > 1 ? `
-                        <button class="media-arrow media-prev" type="button" aria-label="Imagen anterior">‹</button>
-
-                        <div class="carousel-count"><span>1</span> / ${images.length}</div>
                         <div class="carousel-dots">
                             ${images.map((_, i) => `<button type="button" class="dot ${i === 0 ? "active" : ""}" aria-label="Ver imagen ${i + 1}"></button>`).join("")}
                         </div>
@@ -74,6 +71,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function renderPost() {
+        // Asegura que la página vuelva a desplazarse después de cerrar el modal.
+        document.body.classList.remove("modal-open");
+
         const post = posts[current];
         const answer = answers[current];
 
@@ -209,36 +209,26 @@ document.addEventListener("DOMContentLoaded", () => {
         const track = carousel.querySelector(".carousel-track");
         const images = [...track.querySelectorAll("img")];
         const dots = [...carousel.querySelectorAll(".dot")];
-        const count = carousel.querySelector(".carousel-count span");
         let imageIndex = 0;
 
         const showImage = index => {
             imageIndex = (index + images.length) % images.length;
             track.scrollTo({ left: track.clientWidth * imageIndex, behavior: "smooth" });
             dots.forEach((dot, i) => dot.classList.toggle("active", i === imageIndex));
-            if (count) count.textContent = imageIndex + 1;
         };
 
-        carousel.querySelector(".media-prev")?.addEventListener("click", event => {
-            event.stopPropagation();
-            showImage(imageIndex - 1);
-        });
-        carousel.querySelector(".media-next")?.addEventListener("click", event => {
-            event.stopPropagation();
-            showImage(imageIndex + 1);
-        });
         dots.forEach((dot, i) => dot.addEventListener("click", () => showImage(i)));
         track.addEventListener("scroll", () => {
             const newIndex = Math.round(track.scrollLeft / track.clientWidth);
             if (newIndex !== imageIndex) {
                 imageIndex = newIndex;
                 dots.forEach((dot, i) => dot.classList.toggle("active", i === imageIndex));
-                if (count) count.textContent = imageIndex + 1;
-            }
+                }
         });
     }
 
     function renderFinal() {
+        document.body.classList.remove("modal-open");
         stepText.textContent = "Revisión terminada";
         progressBar.style.width = "100%";
 

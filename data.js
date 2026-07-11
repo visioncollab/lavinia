@@ -47,9 +47,9 @@ const CONFIG_SEMANAL = {
     ------------------------------------------------------------------------ */
     publicaciones: [
         {
-            tipo: "carrusel",
+            tipo: "imagen",
             diaSemana: "Martes 07 de julio",
-            imagenes: ["img/7.jpg", "img/9.jpg", "img/10.jpg"],
+            imagenes: ["img/7.jpg"],
             copy: `¿Espacio o Calidad de Vida? 🏠
 
 Ya no buscamos casas gigantes. Buscamos tiempo.
