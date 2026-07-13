@@ -32,7 +32,7 @@ const CONFIG_SEMANAL = {
        2. DATOS DE LA SEMANA
     ------------------------------------------------------------------------ */
     titulo: "Calendario Julio 2026",
-    rangoFechas: "Semana del martes 07 al sábado 11 de julio",
+    rangoFechas: "Semana del martes 14 al sábado 18 de julio",
 
     /* ------------------------------------------------------------------------
        3. PUBLICACIONES
@@ -48,64 +48,55 @@ const CONFIG_SEMANAL = {
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 07 de julio",
-            imagenes: ["img/7.jpg"],
-            copy: `¿Espacio o Calidad de Vida? 🏠
+            diaSemana: "Martes 14 de julio",
+            imagenes: ["img/14.jpg"],
+            copy: `🏠 ¡Tener tu propiedad propia es más fácil de lo que parece! 
 
-Ya no buscamos casas gigantes. Buscamos tiempo.
-La tendencia hoy es clara: mejor distribución, menos mantenimiento y una ubicación que te devuelva horas al día.
+Hoy existen excelentes opciones y facilidades de financiamiento para lograrlo. Solo necesitas una guía cercana que te ayude a elegir la mejor alternativa para ti.
 
-Un metro cuadrado bien diseñado vale más que diez vacíos.
+¿Te gustaría que conversemos sobre tus metas?
 
-¿Qué pesa más en tu decisión: el tamaño o la ubicación?`
+📲 Escríbeme`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Jueves 16 de julio",
+            imagenes: ["img/16.jpg"],
+            copy: `¡Este exclusivo flat en Surco es el hogar que estabas buscando! 🏢
+
+Vive con la tranquilidad y conexión que mereces en este espacio de 115.22 m²:
+
+✅ 3 amplios dormitorios.
+✅ Terraza privada para disfrutar.
+✅ Edificio exclusivo de solo 14 departamentos.
+✅ Estacionamiento incluido.
+
+Tu nuevo hogar te espera en la mejor zona residencial.
+
+💬 ¿Quieres conocer más detalles o agendar una visita? Envíame un mensaje y conversemos.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 09 de julio",
-            imagenes: ["img/9.jpg"],
-            copy: `¿Estás pensando en solicitar un crédito hipotecario? 🏠
+            diaSemana: "Viernes 17 de julio",
+            imagenes: ["img/17.jpg"],
+            copy: `¡El departamento en Surquillo ya fue alquilado! 🥂
 
-Estas son las 5 entidades bancarias con menores tasas hipotecarias para vivienda en moneda nacional, según información de la SBS.
+Muchas gracias a todos por su interés y confianza.
 
-Comparar tasas antes de elegir un banco puede marcar una gran diferencia en tu cuota mensual y en el monto total que terminarás pagando.
-
-📌 Fuente: SBS
-📅 Fecha de consulta: 01/07/2026
-⚠️ Tasas referenciales sujetas a evaluación crediticia de cada entidad.`
+📲 ¿Buscas algo similar en la zona? Escríbeme y te avisaré antes que nadie cuando tenga una nueva propiedad disponible.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 10 de julio",
-            imagenes: ["img/10.jpg"],
-            copy: `📍 La ubicación no lo es todo, la conectividad sí.
+            diaSemana: "Sábado 18 de julio",
+            imagenes: ["img/18.jpg"],
+            copy: `¡Elegir la ubicación perfecta es el secreto de una gran inversión! 🏡
 
-Antes de comprar, ignora los metros cuadrados y mira afuera:
+Comprar en el lugar correcto marca toda la diferencia para que tu propiedad gane valor y sea siempre una excelente decisión.
 
-📌 ¿Qué tienes a 5 minutos caminando?
-📌 ¿Qué proyectos vienen a la zona?
-📌 ¿Tu día a día será más fácil o más difícil?
-
-La plusvalía está en la infraestructura que te rodea.
-
-¿Analizas el entorno antes de cerrar el trato o te dejas llevar por la fachada?`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 11 de julio",
-            imagenes: ["img/11.jpg"],
-            copy: `¡Disponible en el corazón de San Isidro/Aramburú! 🏢
-
-Este departamento tiene todo lo que buscas:
-✅ 2 dormitorios + 2 baños.
-✅ Balcón con vista exterior.
-✅ Iluminación natural impecable.
-
-Ubicación inmejorable en calle Las Garzas Sur.
-
-¿Te interesa? Mándame un mensaje y coordinamos. 💬`
+📩 ¿Te gustaría que busquemos juntos la mejor ubicación para ti? Escríbeme y conversemos.`
         }
     ]
 };
