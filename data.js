@@ -32,7 +32,7 @@ const CONFIG_SEMANAL = {
        2. DATOS DE LA SEMANA
     ------------------------------------------------------------------------ */
     titulo: "Calendario Julio 2026",
-    rangoFechas: "Semana del martes 14 al sábado 18 de julio",
+    rangoFechas: "Semana del martes 21 al sábado 25 de julio",
 
     /* ------------------------------------------------------------------------
        3. PUBLICACIONES
@@ -48,55 +48,45 @@ const CONFIG_SEMANAL = {
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 14 de julio",
-            imagenes: ["img/14.jpg"],
-            copy: `🏠 ¡Tener tu propiedad propia es más fácil de lo que parece! 
+            diaSemana: "Martes 21 de julio",
+            imagenes: ["img/21.jpg"],
+            copy: `🚨 ¿Tu edificio está listo para una emergencia?
 
-Hoy existen excelentes opciones y facilidades de financiamiento para lograrlo. Solo necesitas una guía cercana que te ayude a elegir la mejor alternativa para ti.
+En una crisis, los primeros minutos definen todo. No esperes a que ocurra para actuar.
+✅ Organiza brigadas.
+✅ Capacita a tus vecinos en primeros auxilios.
+✅ Ten un plan de evacuación claro.
 
-¿Te gustaría que conversemos sobre tus metas?
-
-📲 Escríbeme`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Jueves 16 de julio",
-            imagenes: ["img/16.jpg"],
-            copy: `¡Este exclusivo flat en Surco es el hogar que estabas buscando! 🏢
-
-Vive con la tranquilidad y conexión que mereces en este espacio de 115.22 m²:
-
-✅ 3 amplios dormitorios.
-✅ Terraza privada para disfrutar.
-✅ Edificio exclusivo de solo 14 departamentos.
-✅ Estacionamiento incluido.
-
-Tu nuevo hogar te espera en la mejor zona residencial.
-
-💬 ¿Quieres conocer más detalles o agendar una visita? Envíame un mensaje y conversemos.`
+Tu seguridad y la de tu familia dependen de la preparación. ¡Hagamos de nuestro condominio un lugar seguro! 👇`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Viernes 17 de julio",
-            imagenes: ["img/17.jpg"],
-            copy: `¡El departamento en Surquillo ya fue alquilado! 🥂
-
-Muchas gracias a todos por su interés y confianza.
-
-📲 ¿Buscas algo similar en la zona? Escríbeme y te avisaré antes que nadie cuando tenga una nueva propiedad disponible.`
+            diaSemana: "Jueves 23 de julio",
+            imagenes: ["img/23.jpg"],
+            copy: `¡Saludos en el día de la FAP! 🛫 Honramos la memoria del Capitán Quiñones, símbolo de coraje. Inspirados en esa misma visión, trabajamos con firmeza para que cada paso que des en tus inversiones sea seguro y exitoso. ✨`
         },
 
         {
             tipo: "video",
-            diaSemana: "Sábado 18 de julio",
-            imagenes: ["img/18.jpg"],
-            copy: `¡Elegir la ubicación perfecta es el secreto de una gran inversión! 🏡
+            diaSemana: "Viernes 24 de julio",
+            imagenes: ["img/24.jpg"],
+            copy: `🏠 Comprar bien no es cuestión de suerte, es cuestión de estrategia.
 
-Comprar en el lugar correcto marca toda la diferencia para que tu propiedad gane valor y sea siempre una excelente decisión.
+Antes de elegir, asegúrate de conocer los números reales, la plusvalía y el potencial de tu inversión. Que tu próxima compra sea una decisión inteligente, no un gasto extra.
 
-📩 ¿Te gustaría que busquemos juntos la mejor ubicación para ti? Escríbeme y conversemos.`
+📲 ¿Quieres comprar con seguridad? Escríbeme y analicemos juntos las mejores opciones.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Sábado 25 de julio",
+            imagenes: ["img/25.jpg"],
+            copy: `¡Tu nuevo hogar en Surco te espera! 🏢
+
+Disfruta de 115 m² diseñados para tu comodidad: 3 amplios dormitorios, terraza privada y la tranquilidad de un edificio exclusivo (solo 14 departamentos). Incluye estacionamiento.
+
+¡Agenda tu visita hoy mismo! Escríbeme y coordinemos.`
         }
     ]
 };
