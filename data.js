@@ -5,71 +5,63 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Lavinia Flores | MVCS PN-7714",
     whatsappPublicaciones: "51997937414",
     whatsappDestino: "",
-    titulo: "Calendario Julio 2026",
-    rangoFechas: "Semana del lunes 27 al sábado 1 de agosto",
+    titulo: "Calendario Agosto 2026",
+    rangoFechas: "Semana del martes 2 al sábado 8 de agosto",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Lunes 27 de julio",
-            imagenes: ["img/27.png"],
-            copy: `¡Feliz 28 de Julio, Perú! 🔴⚪🔴
+            diaSemana: "Martes 4 de agosto",
+            imagenes: ["img/4.jpg"],
+            copy: `🏡 ¿Vas a comprar una vivienda? Evita estos errores.
 
-Celebrar nuestra tierra es celebrar los hogares, las familias y las historias que construimos juntos cada día.
-Les deseo unas Felices Fiestas Patrias, llenas de unión, esperanza y nuevos comienzos.`
+No verificar la documentación, elegir solo por el precio o no recibir asesoría puede salir muy caro.
+Infórmate antes de decidir. Un buen asesoramiento hoy puede ahorrarte muchos problemas mañana.
+
+💬 ¿Cuál crees que es el error más común al comprar una vivienda?`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 30 de julio",
-            imagenes: ["img/30.jpg"],
-            copy: `¿A punto de recibir tu departamento nuevo? Ojo a esto. 👀
+            diaSemana: "Jueves 6 de agosto",
+            imagenes: ["img/6.png"],
+            copy: `🇵🇪 6 de agosto | Conmemoración de la Batalla de Junín
 
-Firmar el acta de entrega sin revisar a fondo te puede costar caro. Lo que sí o sí debes inspeccionar antes de dar conformidad:
+Hoy rendimos homenaje a los héroes que, con valentía y compromiso, hicieron posible un capítulo decisivo en la historia del Perú.
 
-✅ Acabados y detalles de pintura o pisos.
+Que esta fecha nos inspire a seguir construyendo un país con unidad, esfuerzo y esperanza.
 
-✅ Instalaciones eléctricas y sanitarias funcionando.
-
-✅ Observaciones por escrito en el acta oficial.
-
-Evita problemas futuros y exige que te entreguen el espacio impecable. 🏠`
+¡Feliz Día de la Batalla de Junín! ❤️🤍❤️`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 31 de julio",
-            imagenes: ["img/31.jpg"],
-            copy: `KENKO II – Surco
-Exclusividad, modernidad y la mejor conectividad.
+            diaSemana: "Viernes 7 de agosto",
+            imagenes: ["img/7.jpg"],
+            copy: `¿Comprar o seguir alquilando? 🤔
 
-Ubicado en una zona residencial de alta demanda, cerca de colegios, centros comerciales y vías principales.
+🏡 ¿Estás construyendo tu patrimonio... o el de alguien más?
 
-Lo mejor de Kenko II:
+Alquilar te brinda flexibilidad, pero comprar una vivienda te permite invertir en tu futuro y generar patrimonio.
+La mejor decisión dependerá de tus objetivos, ingresos y estilo de vida.
 
-Edificio moderno con 2 ingresos independientes
-
-Departamentos con balcón, terraza y zona BBQ
-
-Cocina abierta integrada y área de lavado independiente
-
-Ascensores de última tecnología
-
-📲 ¡Agenda tu visita hoy!`
+💬 ¿Tú qué elegirías: comprar o seguir alquilando?`
         },
 
         {
             tipo: "video",
-            diaSemana: "Sábado 1 de agosto",
-            imagenes: ["img/1.jpg"],
-            copy: `Edificio exclusivo en Surco: Solo 14 departamentos. 🔑
+            diaSemana: "Sábado 8 de agosto",
+            imagenes: ["img/8.jpg"],
+            copy: `🏡 Vive donde todo te queda cerca
 
-Si buscas espacio y cero ruido, este departamento es para ti:
+KENKO II – Surco
 
-✅ 115 m² muy bien distribuidos.
-✅ 3 dormitorios amplios + terraza privada.
-✅ Incluye estacionamiento.
+Diseñado para quienes buscan comodidad, estilo y una ubicación privilegiada.
 
-📍 Ubicación estratégica y tranquilidad garantizada.`
+✨ Balcón, terraza y zona BBQ.
+✨ Cocina abierta y área de lavado independiente.
+✨ Edificio moderno con ascensores de última tecnología.
+
+📲 Agenda tu visita y conoce tu próximo hogar.`
         }
     ]
 };
