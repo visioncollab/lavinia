@@ -6,62 +6,62 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "51997937414",
     whatsappDestino: "",
     titulo: "Calendario Agosto 2026",
-    rangoFechas: "Semana del martes 2 al sábado 8 de agosto",
+    rangoFechas: "Semana del martes 11 al sábado 15 de agosto",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 4 de agosto",
-            imagenes: ["img/4.jpg"],
-            copy: `🏡 ¿Vas a comprar una vivienda? Evita estos errores.
+            diaSemana: "Martes 11 de agosto",
+            imagenes: ["img/11.jpg"],
+            copy: `🏡 ¿Qué pasa con las tasas hipotecarias?
 
-No verificar la documentación, elegir solo por el precio o no recibir asesoría puede salir muy caro.
-Infórmate antes de decidir. Un buen asesoramiento hoy puede ahorrarte muchos problemas mañana.
+Las tasas cambian y pueden afectar directamente tu cuota mensual.
+Antes de elegir un crédito, compara opciones y encuentra la que mejor se adapte a ti.
 
-💬 ¿Cuál crees que es el error más común al comprar una vivienda?`
+📌 Informarte hoy puede ayudarte a ahorrar mañana.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Jueves 13 de agosto",
+            imagenes: ["img/13.jpg"],
+            copy: `🏡 Exclusividad y tranquilidad en Surco
+
+Solo 14 departamentos.
+
+✨ 115 m² bien distribuidos
+🛏️ 3 dormitorios amplios
+🌿 Terraza privada
+🚗 Estacionamiento incluido
+
+📍 Ubicación estratégica en Surco.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 14 de agosto",
+            imagenes: ["img/14.jpg"],
+            copy: `💳 Mejora tu historial crediticio
+
+Un buen historial puede ayudarte a conseguir mejores condiciones para tu crédito hipotecario.
+
+✔️ Paga a tiempo.
+✔️ Evita sobreendeudarte.
+✔️ Cuida tus finanzas.
+
+🏡 Prepárate hoy para comprar tu vivienda mañana.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 6 de agosto",
-            imagenes: ["img/6.png"],
-            copy: `🇵🇪 6 de agosto | Conmemoración de la Batalla de Junín
+            diaSemana: "Sábado 15 de agosto",
+            imagenes: ["img/15.jpg"],
+            copy: `📍 ¿Por qué invertir en Surco?
 
-Hoy rendimos homenaje a los héroes que, con valentía y compromiso, hicieron posible un capítulo decisivo en la historia del Perú.
+Surco combina ubicación estratégica, tranquilidad y calidad de vida, con fácil acceso a comercios, áreas verdes, colegios y principales vías.
 
-Que esta fecha nos inspire a seguir construyendo un país con unidad, esfuerzo y esperanza.
+Además, es una zona con alta demanda inmobiliaria y potencial de valorización.
 
-¡Feliz Día de la Batalla de Junín! ❤️🤍❤️`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 7 de agosto",
-            imagenes: ["img/7.jpg"],
-            copy: `¿Comprar o seguir alquilando? 🤔
-
-🏡 ¿Estás construyendo tu patrimonio... o el de alguien más?
-
-Alquilar te brinda flexibilidad, pero comprar una vivienda te permite invertir en tu futuro y generar patrimonio.
-La mejor decisión dependerá de tus objetivos, ingresos y estilo de vida.
-
-💬 ¿Tú qué elegirías: comprar o seguir alquilando?`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 8 de agosto",
-            imagenes: ["img/8.jpg"],
-            copy: `🏡 Vive donde todo te queda cerca
-
-KENKO II – Surco
-
-Diseñado para quienes buscan comodidad, estilo y una ubicación privilegiada.
-
-✨ Balcón, terraza y zona BBQ.
-✨ Cocina abierta y área de lavado independiente.
-✨ Edificio moderno con ascensores de última tecnología.
-
-📲 Agenda tu visita y conoce tu próximo hogar.`
+🏡 Una excelente opción para vivir o invertir pensando en el futuro.`
         }
     ]
 };
