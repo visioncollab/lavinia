@@ -6,62 +6,71 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "51997937414",
     whatsappDestino: "",
     titulo: "Calendario Agosto 2026",
-    rangoFechas: "Semana del martes 11 al sábado 15 de agosto",
+    rangoFechas: "Semana del martes 18 al sábado 22 de agosto",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 11 de agosto",
-            imagenes: ["img/11.jpg"],
-            copy: `🏡 ¿Qué pasa con las tasas hipotecarias?
+            diaSemana: "Martes 18 de agosto",
+            imagenes: ["img/18.jpg"],
+            copy: `¿Es un buen negocio ese depa? 🧐 Mide el ROI.
 
-Las tasas cambian y pueden afectar directamente tu cuota mensual.
-Antes de elegir un crédito, compara opciones y encuentra la que mejor se adapte a ti.
+El Retorno de Inversión (ROI) calcula en cuánto tiempo recuperarás tu dinero. ⏱️💰
 
-📌 Informarte hoy puede ayudarte a ahorrar mañana.`
+📍 Clave para Lima:
+• Busca zonas cerca a universidades o centros corporativos.
+• Generan mayor demanda de alquiler.
+• Recuperas tu inversión más rápido. 🚀
+
+📲 ¿Buscas alta rentabilidad? Envíame un DM.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 13 de agosto",
-            imagenes: ["img/13.jpg"],
-            copy: `🏡 Exclusividad y tranquilidad en Surco
+            diaSemana: "Jueves 20 de agosto",
+            imagenes: ["img/20.jpg"],
+            copy: `📍 Tu nuevo estilo de vida te espera en Surco. Conoce KENKO II.
 
-Solo 14 departamentos.
+Disfruta de un diseño pensado para tu confort en una ubicación totalmente estratégica. 🏙️
 
-✨ 115 m² bien distribuidos
-🛏️ 3 dormitorios amplios
-🌿 Terraza privada
-🚗 Estacionamiento incluido
+✨ ¿Qué lo hace especial?
+• Área social en casa: Balcón, terraza y zona de parrilla. 🥩
+• Distribución ideal: Cocina tipo americana y lavandería aislada. 🍳
+• Accesibilidad: Edificio de estreno con ascensores inteligentes. 🏢
 
-📍 Ubicación estratégica en Surco.`
+📲 Escríbeme al DM para agendar tu visita.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 14 de agosto",
-            imagenes: ["img/14.jpg"],
-            copy: `💳 Mejora tu historial crediticio
+            diaSemana: "Viernes 21 de agosto",
+            imagenes: ["img/21.jpg"],
+            copy: `¿Qué es un gravamen? 🛑 Antes de comprar, revisa esto.
 
-Un buen historial puede ayudarte a conseguir mejores condiciones para tu crédito hipotecario.
+Es una carga legal o deuda sobre una propiedad, como una hipoteca o un embargo. 📄⚖️
 
-✔️ Paga a tiempo.
-✔️ Evita sobreendeudarte.
-✔️ Cuida tus finanzas.
+📍 Clave antes de firmar:
+• Exige siempre la Copia Literal o el CRI actualizado.
+• Verifica que el inmueble esté 100% libre de deudas.
+• Evita heredar problemas legales a futuro. 🛡️
 
-🏡 Prepárate hoy para comprar tu vivienda mañana.`
+Comprar informado es comprar seguro. 💡`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 15 de agosto",
-            imagenes: ["img/15.jpg"],
-            copy: `📍 ¿Por qué invertir en Surco?
+            diaSemana: "Sábado 22 de agosto",
+            imagenes: ["img/22.jpg"],
+            copy: `⚠️ ¿Terrenos "baratos"? Cuidado con las estafas.
 
-Surco combina ubicación estratégica, tranquilidad y calidad de vida, con fácil acceso a comercios, áreas verdes, colegios y principales vías.
+Comprar un lote sin papeles o servicios básicos es poner tu dinero en riesgo. 💸
 
-Además, es una zona con alta demanda inmobiliaria y potencial de valorización.
+📍 Exige siempre:
+• Habilitación urbana.
+• Factibilidad de agua, luz y desagüe.
 
-🏡 Una excelente opción para vivir o invertir pensando en el futuro.`
+Invierte a lo seguro, no compres problemas. 🛡️
+
+📲 Escríbeme al DM y te asesoro en tu compra.`
         }
     ]
 };
