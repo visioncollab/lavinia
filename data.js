@@ -6,63 +6,68 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "51997937414",
     whatsappDestino: "",
     titulo: "Calendario Agosto 2026",
-    rangoFechas: "Semana del martes 25 al sábado 29 de agosto",
+    rangoFechas: "Semana del martes 1 al sábado 5 de setiembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 25 de agosto",
-            imagenes: ["img/25.jpg"],
-            copy: `¿Vives en un edificio o condominio? ¡Esto te interesa! 🏢✨
+            diaSemana: "Martes 1 de setiembre",
+            imagenes: ["img/1.jpg"],
+            copy: `📝 MINUTA VS. ESCRITURA PÚBLICA
 
-El reglamento del Decreto Legislativo 1568 está muy cerca de ser una realidad y promete cambiar las reglas de juego para:
-1️⃣ Combatir la morosidad de forma más efectiva.
-2️⃣ Exigir transparencia y rendición de cuentas a las administraciones.
-3️⃣ Poner orden en el uso de áreas comunes.
+¿Son lo mismo? Spoiler: NO. 👀
 
-La justicia dio un plazo de 30 días hábiles para ver la versión final. ¡Es hora de que las juntas de propietarios se pongan al día! 📄⚖️
+La minuta recoge el acuerdo de compraventa entre las partes.
 
-Etiqueta a tu vecino/a o a algún miembro de la junta para que estén enterados. 🏃💨`
+La escritura pública formaliza ese acto ante notario.
+
+Dos documentos distintos.
+Un proceso que debes conocer antes de comprar.
+
+👉 ¿Quieres que hagamos un "Diccionario Inmobiliario" con más términos?`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 27 de agosto",
-            imagenes: ["img/27.jpg"],
-            copy: `🐶🏢 El sector inmobiliario en Lima está evolucionando: lo Pet-Friendly ya no es un "plus", es el nuevo estándar.
+            diaSemana: "Jueves 3 de setiembre",
+            imagenes: ["img/3.jpg"],
+            copy: `🏢 ¡Tu nuevo estilo de vida en Surco con KENKO II! 🌟
 
-Las familias de hoy buscan hogares donde sus mascotas sean bienvenidas de verdad. ¿Qué están sumando los nuevos proyectos? 👇
-
-🚿 Zonas de baño exclusivas (Pet Showers).
-🛝 Parques internos y circuitos de agilidad.
-🧱 Acabados resistentes a patitas inquietas.
-
-Distritos como Miraflores, San Isidro y Barranco lideran esta tendencia, demostrando que la ubicación (cerca a parques) es clave para valorizar la propiedad. 🌳
-
-Pero la infraestructura no lo es todo; la tenencia responsable es fundamental. Por eso, organizaciones como WUF están buscando aliados en el sector inmobiliario para crear comunidades que transformen vidas. 🤝`
+Descubre un proyecto diseñado para darte la comodidad y exclusividad que buscas. Disfruta de momentos inolvidables en tu propia terraza con zona de parrilla, una moderna cocina abierta con área de lavandería independiente y la tecnología de un edificio moderno con ascensores inteligentes. 🚀`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 28 de agosto",
-            imagenes: ["img/28.jpg"],
-            copy: `🏡 Vive a tu ritmo: Privacidad y confort en Surco
+            diaSemana: "Viernes 4 de setiembre",
+            imagenes: ["img/4.jpg"],
+            copy: `🏠 ¿POR QUÉ UNA PROPIEDAD NO SE VENDE?
 
-Un espacio pensado para tu familia en un edificio tranquilo de solo 14 departamentos.
+No siempre es porque "nadie tiene dinero". 😅
 
-📐 115 m² excelentemente distribuidos y llenos de luz
-🛌 3 dormitorios amplios
-🍷 Terraza privada para disfrutar tus tardes
-🚘 Estacionamiento asegurado
-📍 Ubicación inmejorable en el corazón de Surco, cerca de todo lo que necesitas.`
+Puede ser:
+
+📍 Mala ubicación
+💰 Precio fuera de mercado
+📸 Mala presentación
+📄 Problemas documentarios
+📢 Poca exposición
+
+Una propiedad puede ser excelente...pero estar mal posicionada.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 29 de agosto",
-            imagenes: ["img/29.png"],
-            copy: `En este 30 de agosto, enviamos un saludo muy especial en conmemoración al Día de Santa Rosa de Lima.
+            diaSemana: "Sábado 5 de setiembre",
+            imagenes: ["img/5.jpg"],
+            copy: `📈 ¡El mercado inmobiliario en Lima se dispara este 2026! 🏢🚀
 
-Que este día de descanso y reflexión te permita disfrutar con los tuyos y recargar energías. Seguimos trabajando con el mismo compromiso de siempre.`
+Según proyecciones de Scotiabank, la venta de viviendas en Lima crecerá un 15% al cierre de este año, superando las 28,000 unidades vendidas.
+
+💡 Claves del crecimiento:
+📉 Tasas de interés hipotecarias más favorables y accesibles.
+💵 Menor nivel del tipo de cambio, facilitando la inversión.
+🏗️ Récord histórico en la colocación de créditos hipotecarios y recuperación de la vivienda social.
+
+Es el momento ideal para invertir en el sector inmobiliario y capitalizar la alta demanda en Lima. 🔑✨`
         }
     ]
 };
