@@ -6,68 +6,63 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "51997937414",
     whatsappDestino: "",
     titulo: "Calendario Agosto 2026",
-    rangoFechas: "Semana del martes 1 al sábado 5 de setiembre",
+    rangoFechas: "Semana del lunes 7 al sábado 12 de setiembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 1 de setiembre",
-            imagenes: ["img/1.jpg"],
-            copy: `📝 MINUTA VS. ESCRITURA PÚBLICA
-
-¿Son lo mismo? Spoiler: NO. 👀
-
-La minuta recoge el acuerdo de compraventa entre las partes.
-
-La escritura pública formaliza ese acto ante notario.
-
-Dos documentos distintos.
-Un proceso que debes conocer antes de comprar.
-
-👉 ¿Quieres que hagamos un "Diccionario Inmobiliario" con más términos?`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Jueves 3 de setiembre",
-            imagenes: ["img/3.jpg"],
-            copy: `🏢 ¡Tu nuevo estilo de vida en Surco con KENKO II! 🌟
-
-Descubre un proyecto diseñado para darte la comodidad y exclusividad que buscas. Disfruta de momentos inolvidables en tu propia terraza con zona de parrilla, una moderna cocina abierta con área de lavandería independiente y la tecnología de un edificio moderno con ascensores inteligentes. 🚀`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 4 de setiembre",
-            imagenes: ["img/4.jpg"],
-            copy: `🏠 ¿POR QUÉ UNA PROPIEDAD NO SE VENDE?
-
-No siempre es porque "nadie tiene dinero". 😅
-
-Puede ser:
-
-📍 Mala ubicación
-💰 Precio fuera de mercado
-📸 Mala presentación
-📄 Problemas documentarios
-📢 Poca exposición
-
-Una propiedad puede ser excelente...pero estar mal posicionada.`
+            diaSemana: "Lunes 7 de setiembre",
+            imagenes: ["img/7.png"],
+            copy: `7 de setiembre: Día del Agente Inmobiliario
+🏡✨ Celebro ser parte del momento en que encuentran su lugar ideal. Ser agente es guiar, escuchar y compartir la inmensa alegría de cada llave entregada. ¡Feliz día a los colegas que trabajan con el corazón!`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 5 de setiembre",
-            imagenes: ["img/5.jpg"],
-            copy: `📈 ¡El mercado inmobiliario en Lima se dispara este 2026! 🏢🚀
+            diaSemana: "Jueves 10 de setiembre",
+            imagenes: ["img/10.jpg"],
+            copy: `¿Notaste que las familias de hoy son más pequeñas? 👀
 
-Según proyecciones de Scotiabank, la venta de viviendas en Lima crecerá un 15% al cierre de este año, superando las 28,000 unidades vendidas.
+En Perú, el promedio actual bajó a solo 2.3 personas por hogar. Esta nueva realidad cambia por completo las reglas del mercado inmobiliario:
 
-💡 Claves del crecimiento:
-📉 Tasas de interés hipotecarias más favorables y accesibles.
-💵 Menor nivel del tipo de cambio, facilitando la inversión.
-🏗️ Récord histórico en la colocación de créditos hipotecarios y recuperación de la vivienda social.
+📐 Espacios 100% funcionales y bien distribuidos.
+🏢 Departamentos compactos hechos a la medida.
+📉 Menor interés en comprar propiedades inmensas.
 
-Es el momento ideal para invertir en el sector inmobiliario y capitalizar la alta demanda en Lima. 🔑✨`
+Nuestra forma de vivir define los proyectos que hoy tienen más éxito. 🏡
+
+📌 Fuente: El Comercio — “La transformación de los hogares peruanos”.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 11 de setiembre",
+            imagenes: ["img/11.jpg"],
+            copy: `¿Menos hijos = nuevas viviendas? 🤔
+
+De los casi 6 hijos por familia que había en 1950, hoy en Perú el promedio bajó a solo 1.7. Esta caída histórica cambia por completo lo que más se busca en una propiedad:
+
+✨ Espacios funcionales por encima del tamaño.
+🏢 Departamentos de 1 o 2 dormitorios.
+📍 Ubicación estratégica y cercanía a todo.
+
+El mercado inmobiliario evoluciona al mismo ritmo que nosotros. 🏡
+
+📌 Fuente: El Comercio — “La transformación de los hogares peruanos”.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Sábado 12 de setiembre",
+            imagenes: ["img/12.jpg"],
+            copy: `✨ ¡Sube al siguiente nivel en Surco con KENKO II! 🏢
+
+Un espacio pensado para darte la comodidad y exclusividad que realmente buscas en tu día a día:
+
+🥩 Terraza propia con zona de parrilla para tus reuniones.
+🍳 Moderna cocina abierta con lavandería independiente.
+🛗 Ascensores inteligentes y tecnología de vanguardia.
+
+Todo listo para dar tu próximo gran paso. 🚀`
         }
     ]
 };
