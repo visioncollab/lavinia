@@ -6,63 +6,75 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "51997937414",
     whatsappDestino: "",
     titulo: "Calendario Agosto 2026",
-    rangoFechas: "Semana del lunes 7 al sábado 12 de setiembre",
+    rangoFechas: "Semana del martes 15 al sábado 19 de setiembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Lunes 7 de setiembre",
-            imagenes: ["img/7.png"],
-            copy: `7 de setiembre: Día del Agente Inmobiliario
-🏡✨ Celebro ser parte del momento en que encuentran su lugar ideal. Ser agente es guiar, escuchar y compartir la inmensa alegría de cada llave entregada. ¡Feliz día a los colegas que trabajan con el corazón!`
+            diaSemana: "Martes 15 de setiembre",
+            imagenes: ["img/15.jpg"],
+            copy: `¿Tu próxima vivienda también debe pensar en tu mascota? 🐶🐱
+
+Hoy, las mascotas forman parte de la familia y también influyen al momento de elegir dónde vivir.
+Ya no solo importa cuántos dormitorios tiene una propiedad, sino también:
+
+🐾 Si aceptan mascotas
+🌳 Si hay parques cerca
+🚶 Si existen espacios para caminar
+🏢 Si el edificio es pet friendly
+
+Porque elegir una vivienda también es elegir un espacio que se adapte a tu estilo de vida.
+
+📌 Fuente: El Comercio — “La transformación de los hogares peruanos”.`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Jueves 17 de setiembre",
+            imagenes: ["img/17.jpg"],
+            copy: `✨ Vive Surco a otro nivel con KENKO II.
+
+Un proyecto pensado para disfrutar más cada espacio:
+
+🥩 Terraza privada con parrilla
+🍳 Cocina abierta y lavandería independiente
+🛗 Ascensores inteligentes y tecnología moderna
+
+📍 Comodidad, diseño y funcionalidad en un solo lugar.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 10 de setiembre",
-            imagenes: ["img/10.jpg"],
-            copy: `¿Notaste que las familias de hoy son más pequeñas? 👀
+            diaSemana: "Viernes 18 de setiembre",
+            imagenes: ["img/18.jpg"],
+            copy: `El mercado inmobiliario está cambiando porque también estamos cambiando nosotros.
 
-En Perú, el promedio actual bajó a solo 2.3 personas por hogar. Esta nueva realidad cambia por completo las reglas del mercado inmobiliario:
+Familias más pequeñas, menos hijos, más mascotas, una mayor población adulta y nuevas formas de trabajar están transformando lo que buscamos en una propiedad.
 
-📐 Espacios 100% funcionales y bien distribuidos.
-🏢 Departamentos compactos hechos a la medida.
-📉 Menor interés en comprar propiedades inmensas.
+Hoy ya no basta con encontrar una vivienda. Buscamos espacios que se adapten a:
 
-Nuestra forma de vivir define los proyectos que hoy tienen más éxito. 🏡
+✨ Nuestro estilo de vida
+📍 La ubicación que necesitamos
+💼 Nuestra forma de trabajar
+👨‍👩‍👧 Nuestra dinámica familiar
+🐾 Nuestras nuevas prioridades
 
-📌 Fuente: El Comercio — “La transformación de los hogares peruanos”.`
+Entender estos cambios permite tomar mejores decisiones inmobiliarias.
+
+📌 Fuentes: El Comercio — “La transformación de los hogares peruanos” y “Oficinas B+ ganan terreno frente a las oficinas B por mayor demanda”.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 11 de setiembre",
-            imagenes: ["img/11.jpg"],
-            copy: `¿Menos hijos = nuevas viviendas? 🤔
+            diaSemana: "Sábado 19 de setiembre",
+            imagenes: ["img/19.jpg"],
+            copy: `🏗️ Lima Este podría cambiar su mapa inmobiliario
 
-De los casi 6 hijos por familia que había en 1950, hoy en Perú el promedio bajó a solo 1.7. Esta caída histórica cambia por completo lo que más se busca en una propiedad:
+El nuevo Plan de Desarrollo Urbano 2026–2036 propone cambios en el uso del suelo y en las condiciones para desarrollar nuevos proyectos.
+Distritos como La Molina, Ate, Santa Anita y San Juan de Lurigancho podrían enfrentar nuevas reglas para construir y aprovechar terrenos.
 
-✨ Espacios funcionales por encima del tamaño.
-🏢 Departamentos de 1 o 2 dormitorios.
-📍 Ubicación estratégica y cercanía a todo.
+¿Por qué importa? Porque una modificación urbana puede cambiar el potencial y valor futuro de una zona.
 
-El mercado inmobiliario evoluciona al mismo ritmo que nosotros. 🏡
-
-📌 Fuente: El Comercio — “La transformación de los hogares peruanos”.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 12 de setiembre",
-            imagenes: ["img/12.jpg"],
-            copy: `✨ ¡Sube al siguiente nivel en Surco con KENKO II! 🏢
-
-Un espacio pensado para darte la comodidad y exclusividad que realmente buscas en tu día a día:
-
-🥩 Terraza propia con zona de parrilla para tus reuniones.
-🍳 Moderna cocina abierta con lavandería independiente.
-🛗 Ascensores inteligentes y tecnología de vanguardia.
-
-Todo listo para dar tu próximo gran paso. 🚀`
+📌 Fuente: Gestión / Instituto Metropolitano de Planificación`
         }
     ]
 };
