@@ -66,14 +66,15 @@ Los detalles que ignoras hoy se convierten en tus gastos de mañana.`
             tipo: "video",
             diaSemana: "Sábado 26 de setiembre",
             imagenes: ["img/26.jpg"],
-            copy: `🏗️ Lima Este podría cambiar su mapa inmobiliario
+            copy: `✨ Tu nuevo depa en Surco está en KENKO II.
 
-El nuevo Plan de Desarrollo Urbano 2026–2036 propone cambios en el uso del suelo y en las condiciones para desarrollar nuevos proyectos.
-Distritos como La Molina, Ate, Santa Anita y San Juan de Lurigancho podrían enfrentar nuevas reglas para construir y aprovechar terrenos.
+Espacios diseñados para disfrutarse al máximo:
 
-¿Por qué importa? Porque una modificación urbana puede cambiar el potencial y valor futuro de una zona.
+🥩 Terraza privada con parrilla: Ideal para tus reuniones.
+🍳 Cocina abierta y lavandería independiente: Funcionalidad real.
+🛗 Ascensores inteligentes y tecnología moderna: Comodidad desde la entrada.
 
-📌 Fuente: Gestión / Instituto Metropolitano de Planificación`
+📍 Diseño, ubicación y estilo en un solo lugar. ¿Te gustaría agendar una visita?`
         }
     ]
 };
