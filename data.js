@@ -5,80 +5,63 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Lavinia Flores | MVCS PN-7714",
     whatsappPublicaciones: "51997937414",
     whatsappDestino: "",
-    titulo: "Calendario Setiembre - Octubre 2026",
-    rangoFechas: "Semana del martes 29 al sábado 03 de octubre",
+    titulo: "Calendario Octubre 2026",
+    rangoFechas: "Semana del martes 6 al sábado 10 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 29 de setiembre",
-            imagenes: ["img/29.jpg"],
-            copy: `🧠 Compras con los ojos, pero decides con datos.
+            diaSemana: "Martes 6 de octubre",
+            imagenes: ["img/6.jpg"],
+            copy: `📊 Precio de venta ≠ Valor real
 
-Decir 😍 "¡Me encanta!" es el primer paso. Pero antes de elegir, pregúntate:
+Que una propiedad se publique en S/500,000 no significa que lo valga. Su verdadero valor depende de:
 
-💰 ¿Los números cuadran?
-📄 ¿Los papeles están en regla?
-📍 ¿La ubicación es estratégica?
-📈 ¿Tiene plusvalía real?
+📍 Ubicación
+📐 Metraje
+🏗️ Antigüedad
+📈 Mercado actual
 
-La emoción te lleva a visitar. La información te hace decidir. 📊`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Jueves 01 de octubre",
-            imagenes: ["img/1.jpg"],
-            copy: `📍 KENKO II – Surco
-
-Vivir en una zona residencial tranquila y tener todo cerca es posible.
-
-Lo que hace destacar a este proyecto:
-
-✔ Doble ingreso independiente
-✔ Balcones, terrazas y zona BBQ 🥩
-✔ Cocinas abiertas para integrar tus espacios
-✔ Cuarto de lavado en todos los depas
-✔ Conexión rápida a avenidas, colegios y malls
-
-Un edificio diseñado para tu comodidad y estilo de vida. 💡
-
-📲 Escríbeme para conocer más detalles o agendar una visita.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 02 de octubre",
-            imagenes: ["img/2.jpg"],
-            copy: `¿Estamos construyendo viviendas pensando en el futuro? 🏗️👵
-
-Con el crecimiento de la población mayor a 80 años, el sector inmobiliario enfrenta nuevas prioridades:
-
-♿ Accesibilidad y cero barreras
-🛗 Ascensores amplios
-🏥 Cercanía a centros médicos
-🔒 Seguridad integral
-
-Una buena propiedad no solo debe funcionar hoy; debe acompañarnos en cada etapa de la vida. 🏡⏳
-
-📌 Fuente: El Comercio — “La transformación de los hogares peruanos”.`
+Poner un precio es fácil. Sustentarlo es otra historia. 💡`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 03 de octubre",
-            imagenes: ["img/3.jpg"],
-            copy: `🏙️ ¿Cuáles son los distritos más valorados de Lima? ✨
+            diaSemana: "Jueves 8 de octubre",
+            imagenes: ["img/8.png"],
+            copy: `🇵🇪 ¡Un saludo en este 8 de octubre!
+Hoy recordamos con mucho orgullo el Combate de Angamos y la inmensa valentía del Caballero de los Mares. ¡Un abrazo patriótico para todos! ⚓💙`
+        },
 
-Si estás buscando dónde mudarte o invertir, estos son los favoritos del momento:
+        {
+            tipo: "video",
+            diaSemana: "Viernes 9 de octubre",
+            imagenes: ["img/9.jpg"],
+            copy: `📍 Descubre KENKO II: Tu nuevo hogar en Surco
 
-🌳 Surco: Ideal para familias. Mucha tranquilidad, parques y buena rentabilidad.
-📍 Jesús María: Todo queda cerca. Excelente precio y conexión a toda la ciudad.
-🌊 San Miguel y Magdalena: Para vivir cerca al mar con un gran potencial de crecimiento.
-✨ Miraflores y San Isidro: La apuesta segura. Exclusividad y lo mejor de la vida urbana.
+Disfruta la calma de un barrio exclusivo sin desconectarte de la ciudad.
 
-El mejor distrito siempre será el que encaje con tu estilo de vida. 💡
+Lo mejor del proyecto:
+✔ Accesos totalmente independientes para mayor privacidad.
+✔ Área de parrillas, balcón y terraza para tus reuniones 🥩.
+✔ Cocinas de concepto abierto que amplían tu sala.
+✔ Lavandería independiente en cada departamento.
+✔ Ubicación estratégica: rodeado de centros comerciales, colegios y vías rápidas.`
+        },
 
-¿Cuál de estos va más contigo? 📲 Te leo.`
+        {
+            tipo: "video",
+            diaSemana: "Sábado 10 de octubre",
+            imagenes: ["img/10.jpg"],
+            copy: `¿Sabías que el comprador peruano ya no busca lo mismo que hace 10 años? 🏙️
+
+Hoy, las prioridades apuntan a la practicidad:
+✔ Ubicación sobre tamaño: Evitar el tráfico es la regla #1.
+✔ Espacios inteligentes: Depas de 1 o 2 habitaciones, fáciles de mantener.
+✔ Áreas comunes útiles: El coworking y la zona de parrillas ahora son decisivos para la compra.
+
+El concepto de hogar evolucionó. ¿Tú qué prefieres: depa moderno y céntrico o casa grande en las afueras? 👇 ¡Comenta!
+
+Fuente: Asociación de Empresas Inmobiliarias del Perú (ASEI).`
         }
     ]
 };
