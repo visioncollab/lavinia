@@ -6,62 +6,61 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "51997937414",
     whatsappDestino: "",
     titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 6 al sábado 10 de octubre",
+    rangoFechas: "Semana del martes 13 al sábado 17 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 6 de octubre",
-            imagenes: ["img/6.jpg"],
-            copy: `📊 Precio de venta ≠ Valor real
+            diaSemana: "Martes 13 de octubre",
+            imagenes: ["img/13.jpg"],
+            copy: `🏠 No soy la agente que solo te dice: "Mira esta casa".
 
-Que una propiedad se publique en S/500,000 no significa que lo valga. Su verdadero valor depende de:
+💡 Soy a quien le preguntas con confianza: "¿Esto de verdad me conviene?"
+📊 Comprar no es una apuesta. Te doy la claridad y los datos que necesitas para decidir con seguridad.
+💜 Soy Lavinia. Escríbeme un mensaje y encontremos tu propiedad ideal. 👇`
+        },
 
+        {
+            tipo: "video",
+            diaSemana: "Jueves 15 de octubre",
+            imagenes: ["img/15.jpg"],
+            copy: `Cada vez más familias y jóvenes buscan proyectos que combinen tres cosas clave:
+
+📍 Ubicación estratégica (conectividad).
+🌿 Construcción sostenible.
+💰 Beneficios financieros (como el Bono Verde o el Crédito Mivivienda).
+
+💡 Si estás buscando comprar y quieres aprovechar los bonos del Estado antes de que la oferta se reduzca aún más, este es el momento de actuar con estrategia. No se trata solo de buscar, sino de saber dónde buscar.
+
+📌 Fuente: ASPAI - Reporte sectorial Octubre 2026`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 16 de octubre",
+            imagenes: ["img/16.jpg"],
+            copy: `¿Qué está pasando con las oficinas en Lima?
+
+🏢 El mercado cambió: las oficinas B+ lideran hoy la demanda (frente a una vacancia del 8,7%).
+
+⚖️ Las empresas ahora buscan el equilibrio perfecto:
+💰 Precio
 📍 Ubicación
-📐 Metraje
-🏗️ Antigüedad
-📈 Mercado actual
+⚙️ Calidad e infraestructura
 
-Poner un precio es fácil. Sustentarlo es otra historia. 💡`
+💡 No se trata de pagar más, sino de elegir el espacio más inteligente y funcional para tu negocio.
+
+📌 Fuente: El Comercio.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 8 de octubre",
-            imagenes: ["img/8.png"],
-            copy: `🇵🇪 ¡Un saludo en este 8 de octubre!
-Hoy recordamos con mucho orgullo el Combate de Angamos y la inmensa valentía del Caballero de los Mares. ¡Un abrazo patriótico para todos! ⚓💙`
-        },
+            diaSemana: "Sábado 17 de octubre",
+            imagenes: ["img/17.jpg"],
+            copy: `
+    
+🏡 ¿Quieres vender o alquilar tu casa o terreno pero no sabes por dónde empezar? No dejes que tu propiedad pase meses en el mercado sin resultados.
 
-        {
-            tipo: "video",
-            diaSemana: "Viernes 9 de octubre",
-            imagenes: ["img/9.jpg"],
-            copy: `📍 Descubre KENKO II: Tu nuevo hogar en Surco
-
-Disfruta la calma de un barrio exclusivo sin desconectarte de la ciudad.
-
-Lo mejor del proyecto:
-✔ Accesos totalmente independientes para mayor privacidad.
-✔ Área de parrillas, balcón y terraza para tus reuniones 🥩.
-✔ Cocinas de concepto abierto que amplían tu sala.
-✔ Lavandería independiente en cada departamento.
-✔ Ubicación estratégica: rodeado de centros comerciales, colegios y vías rápidas.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 10 de octubre",
-            imagenes: ["img/10.jpg"],
-            copy: `¿Sabías que el comprador peruano ya no busca lo mismo que hace 10 años? 🏙️
-
-Hoy, las prioridades apuntan a la practicidad:
-✔ Ubicación sobre tamaño: Evitar el tráfico es la regla #1.
-✔ Espacios inteligentes: Depas de 1 o 2 habitaciones, fáciles de mantener.
-✔ Áreas comunes útiles: El coworking y la zona de parrillas ahora son decisivos para la compra.
-
-El concepto de hogar evolucionó. ¿Tú qué prefieres: depa moderno y céntrico o casa grande en las afueras? 👇 ¡Comenta!
-
-Fuente: Asociación de Empresas Inmobiliarias del Perú (ASEI).`
+🤝 Me encargo de todo el proceso: atraigo a los clientes ideales, negocio el mejor precio y garantizo un trámite rápido y sin estrés para ti.`
         }
     ]
 };
