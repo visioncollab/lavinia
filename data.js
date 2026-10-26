@@ -6,54 +6,70 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "51997937414",
     whatsappDestino: "",
     titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 20 al sábado 24 de octubre",
+    rangoFechas: "Semana del martes 27 al sábado 31 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 20 de octubre",
-            imagenes: ["img/20.jpg"],
-            copy: `🚨 ¿Vas a comprar casa? No te enamores todavía.
-Antes de dar el sí, revisa:
-📄 Documentos en regla
-💰 Presupuesto y crédito listos
-📈 Plusvalía a futuro
-Primero la razón, después el corazón. 🏡`
+            diaSemana: "Martes 27 de octubre",
+            imagenes: ["img/27.jpg"],
+            copy: `💳 ¿Cuánto de tu sueldo debería ir a la hipoteca?
+
+No hay una regla exacta. Antes de comprometerte con una cuota, evalúa:
+
+💰 Ingresos netos
+💳 Deudas actuales
+🛒 Gastos fijos
+💵 Ahorro disponible
+🚨 Fondo de emergencia
+
+La casa de tus sueños no debe convertirse en tu pesadilla financiera. 🏡💡`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Jueves 29 de octubre",
+            imagenes: ["img/29.jpg"],
+            copy: `🏢 ¿Vives en un edificio o condominio? ¡Atención a esta norma!
+
+En Perú, el Decreto Legislativo N.º 1568 establece un nuevo régimen de propiedad horizontal que contempla cambios en:
+
+✅ Juntas de propietarios.
+✅ Administración de áreas comunes.
+✅ Pago de cuotas de mantenimiento.
+✅ Registro de propietarios morosos.
+
+⚖️ ¿Ya está vigente? No. A octubre de 2026, continúa pendiente la publicación de su reglamento definitivo. La norma entrará en vigor 180 días después de dicha publicación.
+
+📌 ¡Mantente informado antes de tomar decisiones sobre tu propiedad!
+
+📚 Fuentes oficiales:
+Diario Oficial El Peruano — D. Leg. 1568 (28/05/2023).
+Ministerio de Vivienda — R. M. 242-2024-VIVIENDA (16/07/2024).`
+        },
+
+        {
+            tipo: "video",
+            diaSemana: "Viernes 30 de octubre",
+            imagenes: ["img/30.jpg"],
+            copy: `🚨 5 RED FLAGS INMOBILIARIAS QUE NO DEBES IGNORAR 👻
+
+Hay sustos peores que los de Halloween...
+
+🚩 Te presionan para separar de inmediato.
+🚩 El precio es demasiado bueno para ser verdad.
+🚩 La información cambia constantemente.
+🚩 Aparecen gastos que no te mencionaron.
+🚩 Evitan responder preguntas importantes.
+🏡 Antes de comprar, verifica documentos, costos y condiciones.
+
+¡Que el único susto sea el de Halloween! 🎃`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Jueves 22 de octubre",
-            imagenes: ["img/22.jpg"],
-            copy: `¡Bancos reducen la cuota inicial hipotecaria al 5%! 🏠✨
-
-Si estabas pensando en invertir, esta es tu oportunidad. Algunas entidades bancarias están bajando la cuota inicial del clásico 10% a solo un 5%, una excelente facilidad enfocada especialmente en quienes buscan financiar la compra de una vivienda con el objetivo de alquilarla y generar rentabilidad mensual. 📈🔑
-
-📰 Fuente: Diario Gestión`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Viernes 23 de octubre",
-            imagenes: ["img/23.jpg"],
-            copy: `¿Muchos m² o mejor propiedad? 📐
-El tamaño no lo es todo; la funcionalidad sí. Menos metraje suele significar:
-1️⃣ Ubicación estratégica
-2️⃣ Diseño eficiente
-3️⃣ Mejores amenidades
-4️⃣ Menor gasto mensual
-El valor no está en el tamaño, sino en el uso: ¿Qué harás con esos m²? 💡
-📌 Fuente: Elaboración propia a partir de El Comercio.`
-        },
-
-        {
-            tipo: "video",
-            diaSemana: "Sábado 24 de octubre",
-            imagenes: ["img/24.jpg"],
-            copy: `¡El sector inmobiliario se encamina a un 2026 récord! 🚀🏙️
-
-El mercado de viviendas nuevas está imparable. Impulsado por el despegue de zonas clave como Lima Norte y la consolidación de Lima Top, las proyecciones indican que el año cerrará con la venta de cerca de 28,000 unidades y un crecimiento del 15% en créditos hipotecarios. 📊🏢
-
-📰 Fuente: Diario El Comercio`
+            diaSemana: "Sábado 31 de octubre",
+            imagenes: ["img/31.jpg"],
+            copy: `🇵🇪🎶 ¡Feliz Día de la Canción Criolla! Hoy celebramos nuestra música, nuestras raíces y esas melodías que nos llenan de orgullo peruano.`
         }
     ]
 };
