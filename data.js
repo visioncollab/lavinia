@@ -6,7 +6,7 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "51997937414",
     whatsappDestino: "",
     titulo: "Calendario Noviembre 2026",
-    rangoFechas: "Semana del martes 03 al sábado 07 de octubre",
+    rangoFechas: "Semana del martes 03 al sábado 07 de noviembre",
     publicaciones: [
         {
             tipo: "imagen",
