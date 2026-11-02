@@ -5,71 +5,76 @@ const CONFIG_SEMANAL = {
     firmaPublicaciones: "Lavinia Flores | MVCS PN-7714",
     whatsappPublicaciones: "51997937414",
     whatsappDestino: "",
-    titulo: "Calendario Octubre 2026",
-    rangoFechas: "Semana del martes 27 al sábado 31 de octubre",
+    titulo: "Calendario Noviembre 2026",
+    rangoFechas: "Semana del martes 03 al sábado 07 de octubre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 27 de octubre",
-            imagenes: ["img/27.jpg"],
-            copy: `💳 ¿Cuánto de tu sueldo debería ir a la hipoteca?
+            diaSemana: "Martes 3 de noviembre",
+            imagenes: ["img/3.jpg"],
+            copy: `¿Te enamoraste de una propiedad? Espera. ✋🏠
 
-No hay una regla exacta. Antes de comprometerte con una cuota, evalúa:
+Ilusionarse en la primera visita es fácil, pero comprar requiere cabeza fía. 🧠
 
-💰 Ingresos netos
-💳 Deudas actuales
-🛒 Gastos fijos
-💵 Ahorro disponible
-🚨 Fondo de emergencia
+Antes de dar el "sí", pasa este filtro exprés:
 
-La casa de tus sueños no debe convertirse en tu pesadilla financiera. 🏡💡`
+📍 Ubicación: ¿Funciona para tu rutina diaria?
+💰 Presupuesto: ¿Cubre precio y gastos extras?
+📐 Distribución: ¿Te servirá de aquí a 5 años?
+📜 Documentación: ¿Está todo en regla?
+
+Una visita te enamora, pero los números te dan tranquilidad. 🔑
+
+💾 Guarda este post para tu próxima visita o escríbeme al MD si necesitas evaluar una propiedad antes de comprar. `
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 29 de octubre",
-            imagenes: ["img/29.jpg"],
-            copy: `🏢 ¿Vives en un edificio o condominio? ¡Atención a esta norma!
+            diaSemana: "Jueves 5 de noviembre",
+            imagenes: ["img/5.jpg"],
+            copy: `Venta de depas en Lima sube 26% 📈🏠
 
-En Perú, el Decreto Legislativo N.º 1568 establece un nuevo régimen de propiedad horizontal que contempla cambios en:
+El mercado no se detiene: se han vendido más de 23,600 viviendas nuevas en Lima y Callao este año.
 
-✅ Juntas de propietarios.
-✅ Administración de áreas comunes.
-✅ Pago de cuotas de mantenimiento.
-✅ Registro de propietarios morosos.
+Lima Moderna (Jesús María, Lince, Magdalena, Surquillo, Pueblo Libre) lidera con casi el 47% de las compras, siendo los depas compactos (40 a 60 m²) los más buscados.
 
-⚖️ ¿Ya está vigente? No. A octubre de 2026, continúa pendiente la publicación de su reglamento definitivo. La norma entrará en vigor 180 días después de dicha publicación.
+💡 Buen momento para comprar o invertir en planos.
 
-📌 ¡Mantente informado antes de tomar decisiones sobre tu propiedad!
-
-📚 Fuentes oficiales:
-Diario Oficial El Peruano — D. Leg. 1568 (28/05/2023).
-Ministerio de Vivienda — R. M. 242-2024-VIVIENDA (16/07/2024).`
+Fuente: Diario Gestión / Codip`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 30 de octubre",
-            imagenes: ["img/30.jpg"],
-            copy: `🚨 5 RED FLAGS INMOBILIARIAS QUE NO DEBES IGNORAR 👻
+            diaSemana: "Viernes 6 de noviembre",
+            imagenes: ["img/6.jpg"],
+            copy: `El test de los 5 minutos ⏱️🏠
 
-Hay sustos peores que los de Halloween...
+Cuando entro a una propiedad, no miro los acabados. Observo esto:
 
-🚩 Te presionan para separar de inmediato.
-🚩 El precio es demasiado bueno para ser verdad.
-🚩 La información cambia constantemente.
-🚩 Aparecen gastos que no te mencionaron.
-🚩 Evitan responder preguntas importantes.
-🏡 Antes de comprar, verifica documentos, costos y condiciones.
+☀️ Luz natural: ¿Entra buena iluminación?
+👂 Ruido: ¿Es un espacio tranquilo?
+🌬️ Ventilación: ¿Fluye bien el aire?
+📐 Distribución: ¿El espacio es realmente funcional?
+📍 Entorno: ¿Qué pasa afuera a distintas horas?
 
-¡Que el único susto sea el de Halloween! 🎃`
+Una cocina bonita te atrae en la visita, pero con la luz, el ruido y la distribución vas a convivir todos los días. 🧠🔑
+
+💾 Guarda este post para tu próxima visita o escríbeme al MD si quieres evaluar una propiedad antes de comprar.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 31 de octubre",
-            imagenes: ["img/31.jpg"],
-            copy: `🇵🇪🎶 ¡Feliz Día de la Canción Criolla! Hoy celebramos nuestra música, nuestras raíces y esas melodías que nos llenan de orgullo peruano.`
+            diaSemana: "Sábado 7 de noviembre",
+            imagenes: ["img/7.jpg"],
+            copy: `Inmobiliarias lideran el optimismo en el sector 🚀🏗️
+
+El sector inmobiliario encabeza el optimismo en la construcción con una proyección de crecimiento del 10.6% para este cierre de año.
+
+¿Qué significa para ti?
+✅ Más proyectos nuevos en evaluación.
+✅ Mayor oferta y opciones de compra en la capital.
+
+El momento de buscar e invertir es ahora. 🧠🔑`
         }
     ]
 };
