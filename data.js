@@ -6,75 +6,67 @@ const CONFIG_SEMANAL = {
     whatsappPublicaciones: "51997937414",
     whatsappDestino: "",
     titulo: "Calendario Noviembre 2026",
-    rangoFechas: "Semana del martes 03 al sábado 07 de noviembre",
+    rangoFechas: "Semana del martes 10 al sábado 14 de noviembre",
     publicaciones: [
         {
             tipo: "imagen",
-            diaSemana: "Martes 3 de noviembre",
-            imagenes: ["img/3.jpg"],
-            copy: `¿Te enamoraste de una propiedad? Espera. ✋🏠
+            diaSemana: "Martes 10 de noviembre",
+            imagenes: ["img/10.jpg"],
+            copy: `📍 LA UBICACIÓN NO SE REMODELA
 
-Ilusionarse en la primera visita es fácil, pero comprar requiere cabeza fía. 🧠
+Una vivienda bonita no lo es todo. Antes de comprar, revisa:
 
-Antes de dar el "sí", pasa este filtro exprés:
-
-📍 Ubicación: ¿Funciona para tu rutina diaria?
-💰 Presupuesto: ¿Cubre precio y gastos extras?
-📐 Distribución: ¿Te servirá de aquí a 5 años?
-📜 Documentación: ¿Está todo en regla?
-
-Una visita te enamora, pero los números te dan tranquilidad. 🔑
-
-💾 Guarda este post para tu próxima visita o escríbeme al MD si necesitas evaluar una propiedad antes de comprar. `
+🚗 Conectividad: ¿Cuánto tiempo pasarás en el tráfico?
+🌳 Entorno: ¿Tienes parques y espacios para disfrutar?
+🛒 Servicios: ¿Hay comercios, colegios y centros de salud cerca?
+🏡 Recuerda: Una buena ubicación no solo aumenta el valor de tu propiedad, también mejora tu calidad de vida.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Jueves 5 de noviembre",
-            imagenes: ["img/5.jpg"],
-            copy: `Venta de depas en Lima sube 26% 📈🏠
+            diaSemana: "Jueves 12 de noviembre",
+            imagenes: ["img/12.jpg"],
+            copy: `🏡 ¡LOS CRÉDITOS HIPOTECARIOS CRECEN 7,8%!
 
-El mercado no se detiene: se han vendido más de 23,600 viviendas nuevas en Lima y Callao este año.
+El financiamiento para viviendas continúa avanzando en Perú.
 
-Lima Moderna (Jesús María, Lince, Magdalena, Surquillo, Pueblo Libre) lidera con casi el 47% de las compras, siendo los depas compactos (40 a 60 m²) los más buscados.
+📈 Según el BCR, los créditos hipotecarios crecieron 7,8% interanual en septiembre de 2026.
 
-💡 Buen momento para comprar o invertir en planos.
+💰 Además, cerca del 95% del saldo de estos préstamos está en soles.
 
-Fuente: Diario Gestión / Codip`
+🔑 ¿Piensas comprar vivienda? Compara tasas, plazos y cuotas antes de tomar una decisión.`
         },
 
         {
             tipo: "video",
-            diaSemana: "Viernes 6 de noviembre",
-            imagenes: ["img/6.jpg"],
-            copy: `El test de los 5 minutos ⏱️🏠
+            diaSemana: "Viernes 13 de noviembre",
+            imagenes: ["img/13.jpg"],
+            copy: `🏡 ¿QUIERES CASA EN 2027? ¡EMPIEZA HOY!
 
-Cuando entro a una propiedad, no miro los acabados. Observo esto:
+No esperes a enero para planificar tu compra.
 
-☀️ Luz natural: ¿Entra buena iluminación?
-👂 Ruido: ¿Es un espacio tranquilo?
-🌬️ Ventilación: ¿Fluye bien el aire?
-📐 Distribución: ¿El espacio es realmente funcional?
-📍 Entorno: ¿Qué pasa afuera a distintas horas?
-
-Una cocina bonita te atrae en la visita, pero con la luz, el ruido y la distribución vas a convivir todos los días. 🧠🔑
-
-💾 Guarda este post para tu próxima visita o escríbeme al MD si quieres evaluar una propiedad antes de comprar.`
+💰 Organiza tus finanzas y define tu presupuesto.
+📍 Elige las zonas que mejor se adapten a ti.
+📊 Compara precios y opciones de financiamiento.
+🔑 Explora propiedades y conoce el mercado.
+✨ Comprar bien no empieza con una visita, empieza con una buena planificación.`
         },
 
         {
             tipo: "imagen",
-            diaSemana: "Sábado 7 de noviembre",
-            imagenes: ["img/7.jpg"],
-            copy: `Inmobiliarias lideran el optimismo en el sector 🚀🏗️
+            diaSemana: "Sábado 14 de noviembre",
+            imagenes: ["img/14.jpg"],
+            copy: `🔑 ¿COMPRARON JUNTOS Y AHORA SE SEPARAN?
 
-El sector inmobiliario encabeza el optimismo en la construcción con una proyección de crecimiento del 10.6% para este cierre de año.
+¿Sabías que pagar más por una propiedad no necesariamente te convierte en dueño de una mayor parte?
 
-¿Qué significa para ti?
-✅ Más proyectos nuevos en evaluación.
-✅ Mayor oferta y opciones de compra en la capital.
+🏠 Titularidad: importa a nombre de quién está registrada la vivienda.
 
-El momento de buscar e invertir es ahora. 🧠🔑`
+💰 Hipoteca: separarse no elimina las deudas con el banco.
+
+📄 Acuerdos: definir las condiciones desde el inicio puede evitar conflictos.
+
+❤️ Antes de comprar en pareja, asegúrense de proteger su inversión.`
         }
     ]
 };
